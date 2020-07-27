@@ -75,4 +75,32 @@ display: table;
 clear: both;
 }
 
-
+footer {
+  padding: 50px 100px;
+  text-align: center;
+  }
+  
+  .ftr {
+  background-color: #eaeaf6;
+  padding: 50px 20;
+  }
+  
+  .a1 {
+    list-style-type: none;
+    background-color: black;
+    color: white;
+  
+  }
+  
+  .a2 {
+    float: top;
+  }
+  
+  .part1 {
+    display:inline-block;
+    width:250px;
+  }
+  
+  .part2 {
+    display:inline-block;
+  }
