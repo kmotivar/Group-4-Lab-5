@@ -26,38 +26,6 @@ body {
   color: white;
 }
 
-.menu0 {
-  position: sticky;
-  top:0;
-  z-index: 2;
-  margin: 1px 10;
-  padding: 15px 1px;
-}
-
-.f-rt{
- float: right; 
-}
-
-.f-lt{
-  float: left;
-}
-
-.ul {
-  list-style-type: none;
-  overflow: hidden;
-}
-
-.menu {
-  list-style-type: none;
-  color: black;
-  text-align: center;
-  padding: 1px 15px;
-  margin: 1px 40;
-  text-decoration: none;
-  color: white;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 20px;
-}
 
 .text {
   text-align: center;
@@ -106,3 +74,5 @@ content: "";
 display: table;
 clear: both;
 }
+
+
