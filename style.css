@@ -1,3 +1,4 @@
+/* Basic CSS*/
 html {
   box-sizing: content-box;
 }
@@ -9,6 +10,7 @@ body {
   margin: 0 auto;
 }
 
+/* Background image */
 .back-img {
   background-image: url("images/b2.jpg");
   height: 100%;
@@ -26,6 +28,7 @@ body {
   color: white;
 }
 
+/* Whole Menu Bar */
 .menu0 {
   position: sticky;
   top:0;
@@ -47,6 +50,7 @@ body {
   overflow: hidden;
 }
 
+/* Right-side menu elements */
 .menu {
   list-style-type: none;
   color: black;
@@ -70,6 +74,7 @@ body {
   font-size: 39px;
 }
 
+/* For content Area */
 .content {
   font-size: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -101,12 +106,14 @@ font-size: 16px;
 font-size: 14px;
 }
 
+/* To clear float */
 .clearfix::after {
 content: "";
 display: table;
 clear: both;
 }
 
+/* For footer */
 footer {
 padding: 50px 100px;
 text-align: center;
